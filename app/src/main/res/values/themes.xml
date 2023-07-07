@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WeatherAppAssignment" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.WeatherAppAssignment" parent="Base.Theme.WeatherAppAssignment" />
+
+    <style name="LabelStyle" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="DefaultTextStyle" parent="TextAppearance.MaterialComponents.Body1">
+
+    </style>
+</resources>

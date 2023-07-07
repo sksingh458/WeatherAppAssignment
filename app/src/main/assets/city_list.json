@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1275004,
+    "name": "Kolkata",
+    "country": "IN"
+  },{
+    "id": 1273294,
+    "name": "Delhi",
+    "country": "IN"
+  },{
+    "id": 1277333,
+    "name": "Bangalore",
+    "country": "IN"
+  },
+  {
+    "id": 1259229,
+    "name": "Pune",
+    "country": "IN"
+  },{
+    "id": 1275339,
+    "name": "Mumbai",
+    "country": "IN"
+  },{
+    "id": 1267254,
+    "name": "Kerala",
+    "country": "IN"
+  },{
+    "id": 1260086,
+    "name": "Patna",
+    "country": "IN"
+  },
+  {
+    "id": 5056033,
+    "name": "London",
+    "country": "US"
+  },
+  {
+    "id": 108410,
+    "name": "Riyadh",
+    "country": "SA"
+  },
+  {
+    "id": 292968,
+    "name": "Abu Dhabi",
+    "country": "AE"
+  },
+  {
+    "id": 5128638,
+    "name": "New York",
+    "country": "US"
+  },
+  {
+    "id": 1850147,
+    "name": "Tokyo",
+    "country": "JP"
+  },
+  {
+    "id": 1261481,
+    "name": "New Delhi",
+    "country": "IN"
+  }
+]
